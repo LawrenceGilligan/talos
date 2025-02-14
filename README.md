@@ -1,75 +1,29 @@
-# Nuxt Minimal Starter
+# T.A.L.O.S.  
+*Tactical Automated Learning & Optimization System*   [![License](https://img.shields.io/badge/Adeptus_Mechanicus-Approved-red)](https://wh40k.lexicanum.com/wiki/Adeptus_Mechanicus)  
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A Warhammer 40k AI strategist that simulates battle outcomes, learns from player tactics, and optimizes victory paths.
 
-## Setup
 
-Make sure to install dependencies:
+## Tech Stack
 
-```bash
-# npm
-npm install
+**Client:** Nuxt 3, Typescript, Vue.js, PrimeVue, Polars, Websocket
 
-# pnpm
-pnpm install
+**Server:** Rust, Axum, Burn.rs, Supabase, SQLx, Redis
 
-# yarn
-yarn install
 
-# bun
-bun install
-```
+## Roadmap
 
-## Development Server
+- Phase 1
+- Phase 2
+- Phase 3
+- Phase 4
+- Phase 5
 
-Start the development server on `http://localhost:3000`:
 
-```bash
-# npm
-npm run dev
+![Logo](Substantial--Products.png)
 
-# pnpm
-pnpm dev
 
-# yarn
-yarn dev
+## License
 
-# bun
-bun run dev
-```
+[MIT](https://choosealicense.com/licenses/mit/)
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
