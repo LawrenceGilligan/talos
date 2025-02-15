@@ -4,7 +4,6 @@ const route = useRoute()
 
 <template>
   <div>
-    <h1>Index</h1>
-    <UButton to="/company">Go to Company</UButton>
+    <h1>Nuxt Routing set up successfully!</h1>
   </div>
 </template>

@@ -4,6 +4,10 @@ const route = useRoute()
 
 <template>
   <div>
-    <h1>Nuxt Routing set up successfully!</h1>
+    <h1>Login</h1>
+    
+    <Image src="./Substantial--Products.png" alt="SubstantialProducts Logo" width="250">
+      <template #image="slotProps"></template>
+    </Image>
   </div>
 </template>
