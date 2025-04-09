@@ -19,7 +19,6 @@ A Warhammer 40k AI strategist that simulates battle outcomes, learns from player
 - Phase 4
 - Phase 5
 
-![Logo](Substantial--Products.png)
 
 ## License
 
